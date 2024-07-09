@@ -20,7 +20,7 @@ public class AucHelper {
     private final ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
 
     public static void start() throws InterruptedException {
-        ///asdasd
+        ///asdasdsddasdsad
         while (AucFThelper.activAucHelper) {
             for (int i = 0; i < AucFThelper.hotBat; i++) {
                 ItemStack stack = MinecraftClient.getInstance().player.inventory.getStack(i);
