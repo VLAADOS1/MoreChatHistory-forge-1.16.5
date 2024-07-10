@@ -1,7 +1,5 @@
 # MoreChatHistory
 
-<img src="https://github.com/VLAADOS1/MoreChatHistory-forge-1.16.5/assets/112278090/332be0f0-dcb9-4281-9bc0-50e7d60bdae5" alt="Logo" width="200"/>
-
 
 ## Описание
 
@@ -33,4 +31,5 @@
 
 ---
 
+<img src="https://github.com/VLAADOS1/MoreChatHistory-forge-1.16.5/assets/112278090/332be0f0-dcb9-4281-9bc0-50e7d60bdae5" alt="Logo" width="200"/>
 **By VLAADOS**
