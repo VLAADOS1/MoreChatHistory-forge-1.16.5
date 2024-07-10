@@ -1,6 +1,6 @@
 # MoreChatHistory
 
-![Logo](https://github.com/VLAADOS1/MoreChatHistory-forge-1.16.5/assets/112278090/332be0f0-dcb9-4281-9bc0-50e7d60bdae5)
+![Logo](https://github.com/VLAADOS1/MoreChatHistory-forge-1.16.5/assets/112278090/332be0f0-dcb9-4281-9bc0-50e7d60bdae5){:height="100px" width="100px"}
 
 
 ## Описание
@@ -23,14 +23,14 @@
 После установки мода, все ваши сообщения будут сохраняться и оставаться видимыми при переходе между серверами. Никаких дополнительных настроек не требуется.
 
 
-![Screenshot](![image](https://github.com/VLAADOS1/MoreChatHistory-forge-1.16.5/assets/112278090/c9e4f89e-f2ca-4da5-9559-dd36372170c2))
+![Screenshot](https://github.com/VLAADOS1/MoreChatHistory-forge-1.16.5/assets/112278090/c9e4f89e-f2ca-4da5-9559-dd36372170c2)
 
 
 ## Лицензия
 
-Этот проект распространяется под лицензией MIT. Подробности можно найти в файле `LICENSE`.
+Этот проект распространяется под защитой уважения.
 
 
 ---
 
-By VLAADOS
+**By VLAADOS**
