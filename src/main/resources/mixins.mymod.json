@@ -1,0 +1,13 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.example.examplemod.mixin",
+  "refmap": "refmap.example.json",
+  "mixins": [
+    "MixinNetworkManager"
+  ],
+  "client": [
+    "MixinChatSkreen",
+    "MixinFps"
+  ],
+  "server": []
+}
